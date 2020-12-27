@@ -14,7 +14,7 @@ def homePage():
 
 @app.route('/predict', methods=['POST'])  # route to show the predictions in a web UI
 def index():
-    #  reading the inputs given by the user
+    # # reading the inputs given by the user
     age_ = (request.form['age'])
     pclass_ = (request.form['pclass'])
     parch = (request.form['parch'])
