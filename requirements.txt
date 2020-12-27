@@ -13,7 +13,6 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
-graphviz @ file:///tmp/build/80754af9/python-graphviz_1606773791755/work
 gunicorn==20.0.4
 htmlmin==0.1.12
 ImageHash==4.1.0
